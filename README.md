@@ -10,4 +10,4 @@ The Basic UI functionality is preserved along with some features.
 
 The gui.py file is a program which converts excel sheets in a excel file, containing verilog variables with their type specified, into verilog programs of '.v' format.
 
-compute.py also acheives the same except it doesn't use a GUI and is the actual version given to the company.
+compute.py also acheives the same except it doesn't use a GUI, just like the actual version given to the company.
