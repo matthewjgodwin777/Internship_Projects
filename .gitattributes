@@ -1,2 +1,2 @@
 * linguist-vendored
-HP Tools - Cleaned linguist-vendored=false
+*.class linguist-vendored=false
