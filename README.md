@@ -3,7 +3,7 @@
 The HP Tools - Cleaned Executable Jar File is an application made for the company "Struent Semiconductors Pvt. Ltd." and they own the copyright to it.
 This application was developed as a Summer Intern Project by me.
 
-The calculation formulae and other processes which the company wants to keep as confidential were removed in this public release.
+The calculation formulae and other processes, which the company wants to keep as confidential, were removed in this public release.
 For further details, contact the company.
 
 The Basic UI functionality is preserved along with some features.
